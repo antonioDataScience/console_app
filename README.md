@@ -1,1 +1,1 @@
-Application for downloading pictures. CONSOLE
+An application for downloading pictures. CONSOLE
